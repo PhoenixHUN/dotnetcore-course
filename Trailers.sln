@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trailers", "Trailers\Trailers.csproj", "{9EE3D244-2E47-49DA-9544-FE3254842092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trailers.MVC", "Trailers.MVC\Trailers.MVC.csproj", "{7C192E34-B2A6-4D92-8DCF-B72D045A0458}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EE3D244-2E47-49DA-9544-FE3254842092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE3D244-2E47-49DA-9544-FE3254842092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE3D244-2E47-49DA-9544-FE3254842092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE3D244-2E47-49DA-9544-FE3254842092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C192E34-B2A6-4D92-8DCF-B72D045A0458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C192E34-B2A6-4D92-8DCF-B72D045A0458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C192E34-B2A6-4D92-8DCF-B72D045A0458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C192E34-B2A6-4D92-8DCF-B72D045A0458}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCDA31B5-7654-47FE-AEE4-795D6B2ED855}
+	EndGlobalSection
+EndGlobal
